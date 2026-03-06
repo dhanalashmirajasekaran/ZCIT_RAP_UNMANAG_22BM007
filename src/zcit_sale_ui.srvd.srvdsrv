@@ -1,0 +1,5 @@
+@EndUserText.label: 'SALES ORDER APP'
+define service ZCIT_SALE_UI {
+  expose ZCIT_SALE_C;
+  expose ZCIT_SALE_O_C;
+}
